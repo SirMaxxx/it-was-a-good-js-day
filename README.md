@@ -123,3 +123,12 @@ And install it on Windows if you an Administrator
 Just 'ng new' it's easy as, don't need no razzmataz to get pizzazzz 
 Now play some music. 
 That's Jazz.
+
+Use VS-Code to edit source. Of Course. Look wider, use Insider as your daily workhorse.
+And if you ain't using rx-js do - it's fresh - and if you don't know howto, ask Ben Lesh
+Remarkable observable (no promises) inarguable, I expect you  neglect replaySubject, but don't be circumspect - react!
+You won't get attacked - or sacked - or even whacked, as a matter of fact it'll have a good impact.
+Use angular cli. It's fly! Enumerate the reason's why, it'll satisfy, simplify, and justify a high pay to buy cabernet or chardonay (or beer, not as dear but, I fear will make more bugs somehow appear)
+Finally to end this narration, in summation, use continuous integration and avoid the temptation to not write tests, accept pull requests, don't be a cowboy, continuously deploy. 
+It's live. 
+Take five. 
